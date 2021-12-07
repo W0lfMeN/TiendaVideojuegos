@@ -1,0 +1,20 @@
+{
+    "name": "carlo/tienda-videojuegos",
+    "description": "tienda videojuegos tarea clase",
+    "type": "project",
+    "license": "Free",
+    "autoload": {
+        "psr-4": {
+            "TiendaVideojuegos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "carlos",
+            "email": "carlos@mail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.16"
+    }
+}
